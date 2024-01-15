@@ -12,3 +12,8 @@ This is a LUISS University team project made in the Data Science in Action Cours
 
 ### 3) **Predicting Diabetes**.
 This is a personal project. This analysis aims to determine if an individual has diabetes or not, which constitutes a binary classification task. In the context of medical diagnoses, attention must be equally distributed between recall and precision as both are crucial metrics (Lu et al., 2020). However, the repercussions of overlooking a true positive—failing to diagnose a diabetic person—are significantly more severe than false positives. Missing a diabetic diagnosis means delayed treatment, with potentially dire health implications. Consequently, the analysis prioritizes both the F1-score, which balances precision and recall, and particularly emphasizes recall to mitigate the risks of non-detection of diabetes (Assiri et al., 2020). Extensive use of Python libraries such as NumPy, Pandas, Seaborn and Matplotlib for data analysis and ML libraries such as Scikit learn and Imbalanced Learn to deal with the imbalanced dataset (SMOTE, SMOTEEN).
+
+### 3) **Predicting Startup Success**.
+This is a Carleton University team project made in the Applied Analytics for Technology Innovation Management Course. The project objective has been to use a Crunchbase dataset to predict startup failure in a similar way to the following paper: Arroyo, J., Corea, F., Jimenez-Diaz, G., & Recio-Garcia, J. A. (2019). Assessment of machine learning performance for decision support in venture capital investments. IEEE Access, 7, 124233-124243
+
+
